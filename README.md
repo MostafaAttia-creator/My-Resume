@@ -8,7 +8,7 @@ I build practical AI solutions, including real-time object detection, tracking, 
 
 ## Resume
 
-[Download My CV (PDF)](Mostafa_Attia_CV.pdf)
+[Download My CV (PDF)](Mostafa Attia Resume.pdf)
 
 ## Technical Interests
 
